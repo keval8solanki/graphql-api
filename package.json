@@ -1,8 +1,8 @@
 {
-	"name": "babel-node-skeleton",
+	"name": "graphql-api",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "https://github.com/keval8solanki/babel-node-skeleton.git",
+	"repository": "https://github.com/keval8solanki/graphql-api.git",
 	"author": "Keval Solanki <keval8solanki@gmail.com>",
 	"license": "MIT",
 	"scripts": {
